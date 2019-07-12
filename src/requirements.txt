@@ -1,0 +1,6 @@
+Flask
+nltk
+bs4
+spacy
+sklearn
+lxml
