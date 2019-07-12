@@ -8,9 +8,13 @@ It should be fine for Linux based users I guess. :)
 This takes in a description and returns summary
 API endpoint is: http://127.0.0.1:8080/summarizer
 
-Input JSON:
+Input:
 {
     "Description": *enter your description*
+}
+Output:
+{
+    "Summary": *processed summary based on given description*
 }
 
 Steps(Run these commands in sequence):
