@@ -12,6 +12,7 @@ Input:
 {
     "Description": *enter your description*
 }
+
 Output:
 {
     "Summary": *processed summary based on given description*
